@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 
 #defining the deck of cards
@@ -106,10 +100,3 @@ while True:
     else: 
         print('Invalid message, too late to participate on this hand. Thanks for playing!\n')
         break
-
-
-# In[ ]:
-
-
-
-
